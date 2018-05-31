@@ -1,5 +1,7 @@
 nameko
 flask
 flasgger
-git+https://github.com/AragurDEV/yowsup@master
 pexpect
+python-dateutil
+pycrypto
+python-axolotl
